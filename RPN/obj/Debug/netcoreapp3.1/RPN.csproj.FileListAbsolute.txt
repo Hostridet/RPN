@@ -1,0 +1,13 @@
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.exe
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.deps.json
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.runtimeconfig.json
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.runtimeconfig.dev.json
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.dll
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\bin\Debug\netcoreapp3.1\RPN.pdb
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.csprojAssemblyReference.cache
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.AssemblyInfoInputs.cache
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.AssemblyInfo.cs
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.csproj.CoreCompileInputs.cache
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.dll
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.pdb
+C:\Users\rumya\Documents\MyProjectsCLione\RPN\RPN\obj\Debug\netcoreapp3.1\RPN.genruntimeconfig.cache
